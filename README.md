@@ -3,7 +3,7 @@ _Data Engineer based in Selangor, Malaysia_<br>
 [Email](mailto:florexong99@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ong-pei-yong-4a9b10175/) / [GitHub](https://github.com/florexong)
 
 ## 👨‍💻 Engineering Experience
-<br><br>
+<br>
 **Junior Data Engineer** @[Whip Mobility](https://www.whipmobility.com/)(Full Time)_(July 2022 - Present)
  
 <br><br>
@@ -13,7 +13,7 @@ _Data Engineer based in Selangor, Malaysia_<br>
 <br><br>
 **Software Engineer** @[Auronex](https://auronex.com)(Internship) _(April 2021 - July 2021)_ <br>
   - Successfully complete 2 website and 1 research project during the internship period
-<br>
+<br><br>
 ## 💬 Languages
 **Chinese**
 **English**
