@@ -15,9 +15,8 @@ _Data Engineer based in Selangor, Malaysia_<br>
 
 **Software Engineer** @[Auronex](https://auronex.com)(Internship) _(April 2021 - July 2021)_ <br>
   - Successfully complete 2 website and 1 research project during the internship period
-<br><br>
 
-## 💬 Languages <br>
+## 💬 Languages
 **Chinese**
 **English**
 **Bahasa Malaysia**
