@@ -6,8 +6,6 @@ _Data Engineer based in Selangor, Malaysia_<br>
 **Junior Data Engineer** @[Whip Mobility](https://www.whipmobility.com/)(Full Time)_(July 2022 - Present)_<br>
  - Pick suitable technology stack for ETL and data warehouse.
  - Define the first data pipeline for the company.
- - 
- 
 <br><br>
 
 **Software QA Analyst** @[Whip Mobility](https://www.whipmobility.com/)(Full Time) _(Jan 2022 - Jun 2022)_ <br>
@@ -25,7 +23,7 @@ _Data Engineer based in Selangor, Malaysia_<br>
 **Hokkien**
 
 ## 🧑🏽‍🎓 Education
-**Bachelor of Computer Science in Data Science(Honors)<br>
+**Bachelor of Computer Science in Data Science(Honors)**<br>
 [Multimedia University(MMU)](https://www.mmu.edu.my/) - Cyberjaya, Malaysia _(November 2018 - December 2021)_ <br>
 
 
