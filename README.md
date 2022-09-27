@@ -17,10 +17,10 @@ _Data Engineer based in Selangor, Malaysia_<br>
   - Successfully complete 2 website and 1 research project during the internship period
 
 ## 💬 Languages
-**Chinese**
-**English**
-**Bahasa Malaysia**
-**Hokkien**
+ - **Chinese**
+ - **English**
+ - **Bahasa Malaysia**
+ - **Hokkien**
 
 ## 🧑🏽‍🎓 Education
 **Bachelor of Computer Science in Data Science(Honors)**<br>
