@@ -36,7 +36,6 @@ _Data Engineer based in Selangor, Malaysia_<br>
  - DBT Cores
  - Tableau
  - Postman
- - <br>
 
 ## 💬 Languages
  - **Chinese**
