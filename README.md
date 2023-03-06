@@ -10,12 +10,12 @@ _Data Engineer based in Selangor, Malaysia_<br>
  - Ensured data accuracy from source to data warehouse to visualization was consistently above 90%.
  - Applied data governance stage by stage to the data infrastructure and users.
  - Designed various data models to meet the needs of stakeholders.
- - Write and maintain the SQL query using DBT core.
+ - Designed and maintain the SQL query using DBT core.
 <br>
 
 **Software QA Analyst** @[Whip Mobility](https://www.whipmobility.com/)(Full Time) _(Jan 2022 - Jun 2022)_ <br>
- - Perform API testing for 3rd party integration
- - Perform testing on new features on the app and website
+ - Achieved seamless integration of 3rd party API by conducting comprehensive testing.
+ - Contributed to the successful launch of new features by conducting thorough testing.
 <br>
 
 **Software Engineer** @[Auronex](https://auronex.com)(Internship) _(April 2021 - July 2021)_ <br>
